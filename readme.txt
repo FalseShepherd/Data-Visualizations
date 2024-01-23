@@ -1,3 +1,0 @@
-This repository of various visualizations was made using matplotlib and numpy. Many of the visualizations made were done by analysis of a db file of a imaginary theme park called "dinoworld.db". 
-
-The final project for this course involved using some of the techniques covered to perform an analysis of college admissions and some basic census information to find correlations between various features of students and the likelyhood of having an > 50k income.   
